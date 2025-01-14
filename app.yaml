@@ -1,0 +1,10 @@
+command: [
+  "python",
+  "app.py"
+]
+
+env:
+  - name: "DATABRICKS_WAREHOUSE_ID"
+    value: "d1184b8c2a8a87eb"
+  - name: "SERVICENOW_URL"
+    value: "https://dev189524.service-now.com/now/sow/record/incident/"    

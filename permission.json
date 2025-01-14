@@ -1,0 +1,8 @@
+{
+    "access_control_list": [
+        {
+            "service_principal_name": "44510620-455b-4a28-81cf-f31ef302ce55",
+            "permission_level": "CAN_USE"
+        }
+    ]
+}
