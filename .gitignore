@@ -3,3 +3,4 @@
 .vscode/
 .databricks
 __pycache__/
+.DS_Store/
